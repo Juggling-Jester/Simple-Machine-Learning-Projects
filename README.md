@@ -1,1 +1,2 @@
 # Simple-Machine-Learning-Projects
+This contains simple projects I have worked on to gain a better understanding of machine learning. Please feel free to reach out with any corrections, comments, or other insight you belive might be useful.
